@@ -42,6 +42,7 @@ Một số Version control phổ biến bao gồm **Git**, **Mercurial**, và **
 - **Git** là một hệ thống quản lý các phiên bản dưới dạng phân tán. **Git** được ra đời ở thời điểm 2005 và trở thành một hệ thống quản lý phiên bản phân tán phổ biến nhất hiện nay. 
 
 \- Về mặt khái niệm, hầu hết các hệ thống khác coi thông tin chúng lưu giữ dưới dạng một tập hợp các file và những thay đổi được thực hiện đối với mỗi file theo thời gian.
+
 ![Alt text](image-1.png)
 
 \- **Git** coi thông tin được lưu trữ là một tập hợp các *snapshot* – ảnh chụp toàn bộ nội dung tất cả các file tại thời điểm.
@@ -63,10 +64,12 @@ Mỗi khi bạn “commit”, Git sẽ *“chụp”* và tạo ra một snapsho
 `
 ### *2.2. Branch*
 - Branch (nhánh) đại diện cho các phiên bản cụ thể của dự án. Những thao tác sẽ được lưu trữ trên nhánh hiện tại, không làm ảnh hưởng đến nhánh cũ.
+  
 ![Alt text](image-3.png)
 
 ### *2.3. Commit*
 - Là thao tác để lưu lại trạng thái hiện tại trên hệ thống, ghi nhận lại lịch sử các xử lý: thêm, xóa, cập nhật các file hay thư mục trên repository.
+  
 ![Alt text](image-4.png)
 
 ### *2.4. Merge*
@@ -238,6 +241,7 @@ Sao chép URL của repository.
     ![Alt text](image-9.png)
 
     \- Inheritance: 1 class kế thừa từ 1 class khác.
+  
     ![Alt text](image-10.png)
 
 - ***Multiplicity trong Class Diagram***
