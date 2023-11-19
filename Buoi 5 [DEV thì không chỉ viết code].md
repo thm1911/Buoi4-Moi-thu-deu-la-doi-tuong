@@ -1,3 +1,23 @@
+# Mục lục
+- [1. Version control là gì và tại sao phải cần dùng nó?](#1-version-control-là-gì-và-tại-sao-phải-cần-dùng-nó)
+- [2. Khái niệm về Git](#2-khái-niệm-về-git)
+    - [*2.1. Repository*](#21-repository)
+    - [*2.2. Branch* ](#22-branch)
+    - [*2.3. Commit*](#23-commit)
+    - [*2.4. Merger*](#24-merge)
+    - [*2.5. Pull*](#25-pull)
+    - [*2.6. Push*](#26-push)
+    - [*2.7. Clone*](#27-clone)
+    - [*2.8. Fork*](#28-fork)
+- [3. Khi nào cần Pull request? Cách tạo Pull request](#3-khi-nào-cần-pull-request-cách-tạo-pull-request)
+    - [*3.1. Khi nào cần Pull request*](#31-khi-nào-cần-pull-request)
+    - [*3.2 Vai trò của Pull request*](#32-vai-trò-của-pull-request)
+    - [*3.3 Cách tạo Pull request trên github*](#33-cách-tạo-1-pull-request-trên-github)
+- [4. UML là gì? Lí do cần vẽ UML? ](#4-uml-là-gì-lí-do-cần-vẽ-uml)
+- [5. Mô hình Class Diagram và Activity Diagram](#5-mô-hình-class-diagram-activity-diagram)
+    - [*5.1. Class Diagram*](#51-class-diagram)
+    - [*5.2. Activity Diagram*](#52-activity-diagram)
+
 ***
 
 # ***[BUỔI 5] DEV THÌ KHÔNG CHỈ VIẾT CODE***
